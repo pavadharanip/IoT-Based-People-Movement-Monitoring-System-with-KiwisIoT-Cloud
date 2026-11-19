@@ -33,7 +33,11 @@ The entry and exit detection status is transmitted to the **KiwisIoT platform** 
 - KiwisIoT Library
 - KiwisIoT Platform
 
+  [View Arduino Code](./people.ino)
+
 ## 🔌 Circuit Connections
+
+![People Counter Output](./imgppl.jpeg)
 
 | Components | NodeMCU ESP8266 |
 |---|---|
@@ -74,7 +78,7 @@ KiwisIoT is used to monitor entry and exit detection events remotely.
 - **Person Exit:** LED 2 blinks three times.
 - **No Detection:** Both LEDs remain OFF.
 
-## 📊 Expected Output
+## 📊 Output
 
 **Entry Detection:**
 ```text
@@ -91,6 +95,8 @@ LED 2 ON
 Entry Status: 0
 Exit Status: 1
 ```
+
+![People Counter Output](./people.png)
 
 ## 📚 Learning Outcomes
 
