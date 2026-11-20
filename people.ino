@@ -6,7 +6,7 @@ const char* ssid = "YOUR WIFI NAME";
 const char* pass = "YOUR PASSWORD";
 
 // Topic ID
-const char* topic = "YOUR TOPIC ID";
+const char* topic = "DASHBOARD TOPIC ID";
 
 // KiwisIoT object
 KiwisIoT kiwisiot(ssid, pass, topic);
