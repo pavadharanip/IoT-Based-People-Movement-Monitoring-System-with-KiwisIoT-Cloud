@@ -35,10 +35,6 @@ The entry and exit detection status is transmitted to the **KiwisIoT platform** 
 
   [View Arduino Code](./people.ino)
 
-## 🔌 Circuit Connections
-
-![People Counter Output](./imgppl.jpeg)
-
 | Components | NodeMCU ESP8266 |
 |---|---|
 | Entry IR Sensor OUT | D1 |
